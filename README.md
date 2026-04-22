@@ -1,4 +1,4 @@
-# Study Planner
+# Study Planners 
 
 A web-based study and assignment planner with Kanban board and syllabus tracking.
 
